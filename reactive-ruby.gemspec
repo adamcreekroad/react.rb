@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
 
 
-  s.add_dependency 'opal', '0.8.0'
+  s.add_dependency 'opal'
   s.add_dependency 'opal-activesupport', '>= 0.2.0'
   s.add_dependency 'opal-browser', '0.2.0'
   s.add_development_dependency 'rake'
